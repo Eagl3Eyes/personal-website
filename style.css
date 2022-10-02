@@ -1,0 +1,110 @@
+body{
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 40px;
+}
+h2{
+    font-size: 50px;
+}
+p{
+    color: gray;
+}
+.text-highlight{
+    color: #EC4C7A;
+}
+.first-page{
+    width: 30%;
+    float: left;
+    margin-left: 14%;
+    padding-left: 5%;
+    padding-top: 15%;
+}
+.second-page{
+    width: 40%;
+    float: left;
+    margin-left: 7%;
+    padding-left: 2%;
+    padding-top: 13%;
+}
+.first-imgage{
+    padding-top: 7%;   
+}
+.second-image img{
+    width: 30%;
+    float: left;
+    margin-left: 7%;
+    padding-left: 2%;
+    padding-top: 5%;
+}
+.first-imgage img{
+    width: 40%;
+}
+.top-banner{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 925px;
+    padding-bottom: 150px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, #EC4F8F, #EC4B75);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.second-banner{
+    background-image: url("images/biography-bg.png");
+}
+.text-position{
+    text-align: center;
+    padding-top: 5%;
+}
+.latest-image-1 img{
+    float: left;
+    width: 25%;
+    padding-top: 2%;
+    padding-left: 10%;
+}
+.latest-image-2 img{
+    float: left;
+    width: 25%;
+    padding-top: 2%;
+    padding-left: 25px;
+}
+.latest-image-3 img{
+    float: left;
+    width: 25%;
+    padding-top: 2%;
+    padding-left: 10%;
+}
+.latest-image{
+    background-image: url("images/latest-work-bg.png");
+}
+.p-size{
+    font-size: 12px;
+}
+.third-page{
+    background-image: url("images/footer-bg.png");
+}
+.box-style{
+    width: 25%;
+    margin: auto;    
+
+    padding-top: 10%;
+    text-align: center;
+    text-decoration: none;
+    border: 10px;
+    background-image: linear-gradient(45deg, #EC5298, #ED4B72);
+    padding: 10px 10px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+footer{
+    text-align: center;
+}
